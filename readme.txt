@@ -1,1 +1,1 @@
-This is essentially one of many tasks (pushed from my local repo) which I was given as an HNGi7 intern.
+This is essentially one of many tasks (pushed from my local repo) which I was given as an HNGi7 intern. It's such a fun experience.
